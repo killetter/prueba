@@ -4,9 +4,15 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="282" y="-7" type="line"/>
       <point x="293" y="14"/>
       <point x="303" y="38"/>
+=======
+      <point x="201" y="-91" type="line"/>
+      <point x="243" y="-70"/>
+      <point x="283" y="-24"/>
+>>>>>>> PRUEBA-3
       <point x="313" y="67" type="curve"/>
       <point x="360" y="225" type="line"/>
       <point x="374" y="232" type="line"/>
@@ -39,9 +45,15 @@
       <point x="427" y="500" type="curve"/>
       <point x="612" y="499" type="line"/>
       <point x="501" y="73" type="line" smooth="yes"/>
+<<<<<<< HEAD
       <point x="492" y="40"/>
       <point x="482" y="9"/>
       <point x="471" y="-19" type="curve"/>
+=======
+      <point x="459" y="-86"/>
+      <point x="386" y="-179"/>
+      <point x="305" y="-225" type="curve"/>
+>>>>>>> PRUEBA-3
     </contour>
   </outline>
 </glyph>
